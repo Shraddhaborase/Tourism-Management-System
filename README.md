@@ -1,1 +1,2 @@
-# Tourism-Management-System
+
+The Tourism Management System (TMS) is a web-based application developed using PHP, designed to streamline and manage tourism-related activities efficiently. It offers features such as secure user authentication, destination and tour package management, online bookings, customer management, and automated email notifications. The system provides a user-friendly interface, advanced search and filter options, and a review and rating system. It also generates detailed reports and analytics to support decision-making. By integrating PHP, MySQL, HTML, CSS, and JavaScript, TMS aims to enhance the overall experience for both administrators and customers, ensuring efficient management and a seamless user experience.
